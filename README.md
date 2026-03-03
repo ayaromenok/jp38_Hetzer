@@ -1,3 +1,5 @@
-
+Designed in Blender 4.4.x
 https://en.wikipedia.org/wiki/Hetzer
-![Alt text](img/jp38_blender_screenshot.jpg)
+![Blender screenshot](img/jp38_blender_screenshot.jpg)
+![printed parts](img/jp38_printed_parts.jpg)
+
